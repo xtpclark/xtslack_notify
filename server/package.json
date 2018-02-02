@@ -1,0 +1,20 @@
+{
+  "author": "Perry Clark <pclark@xtuple.com>",
+  "name": "xtslack_notify",
+  "description": "xTuple ERP Slack Notifications",
+  "version": "4.11.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtpclark/xtslack_notify.git"
+  },
+  "dependencies": {
+    "pg": "0.14.x",
+    "node-slack": "0.0.7"
+  },
+  "engines": {
+    "node": "0.10.32"
+  },
+  "main": "xtslack_notify.js"
+}
+
+
